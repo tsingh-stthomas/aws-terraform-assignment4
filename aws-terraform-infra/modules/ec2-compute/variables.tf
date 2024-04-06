@@ -13,7 +13,7 @@ variable "public_subnets" {
 
 variable "vpc_id" {
   description = "The VPC ID."
-  default     = "10.0.0.0/16"
+  default     = null
 }
 
 variable "ami_id" {
