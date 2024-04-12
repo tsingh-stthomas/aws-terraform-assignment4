@@ -12,16 +12,16 @@ variable "public_subnets" {
 }
 
 variable "vpc_id" {
-  description = "The VPC ID."
+  description = "The VPC ID"
   default     = null
 }
 
 variable "ami_id" {
-  description = "The AMI ID to use for the instances."
+  description = "The AMI ID to use for the instances"
   default     = "ami-0c55b159cbfafe1f0"
 }
 
 variable "instance_type" {
-  description = "The instance type of the EC2 instance."
+  description = "The instance type of the EC2 instances"
   default     = "t2.micro"
 }
