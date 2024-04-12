@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"compute","Source":"./modules/ec2-compute","Dir":"modules/ec2-compute"},{"Key":"database","Source":"./modules/data-stores","Dir":"modules/data-stores"},{"Key":"network","Source":"./modules/network","Dir":"modules/network"}]}
